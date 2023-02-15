@@ -18,3 +18,7 @@ In this repository, we use docker for OAK-D camera.
 This section assumes you already have Myriad-X blob file in ~/yolo_oakD/yolo2openvino/MyriadX. 
 
         bash launch-oakD-yolov4.sh
+
+## Set up xhost 
+
+        xhost local:
